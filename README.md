@@ -1,6 +1,6 @@
 # FlashChat
 
-
+"Flash Chat" is a real-timed chatting application for iPhone. It is interactive and can be used to chat amongst users. It uses Firebase to store data and it is made with storyboard. It has 3 main screens along with a launch screen with animation.
 
 https://user-images.githubusercontent.com/107467793/209520833-a050bdb8-d8d4-41ff-ba37-25081fa750f0.mp4
 
